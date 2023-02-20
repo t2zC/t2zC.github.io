@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'Brandon Light';
-  src: url('font-webfont.woff2') format('woff2'),
-       url('font-webfont.woff') format('woff');
+@font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
   font-style: normal;
 /* credit to mehf for font idea, i stole it */
@@ -58,18 +55,20 @@ body {
 .clean {
   color: white;
 
-  font-family: 'Brandon Light'
+  font-family: 'Source Sans Pro'
 
 }
 
 /* credit to mehf for this bit */
 
 .rainbow{
+	
     background-size: 800% 800%;
     background-clip: text;
     -webkit-background-clip: text;
     animation: rainbow 8s ease infinite;
     overflow: hidden;
+    font-family: 'Source Sans Pro'
   }
   
   @keyframes rainbow {
