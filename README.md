@@ -1,2 +1,1 @@
-# t2zC.github.io
-Juli Website.
+this website stolen from random guy have fun.
