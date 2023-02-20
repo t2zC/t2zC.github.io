@@ -1,1 +1,3 @@
-this website stolen from random guy have fun.
+
+Juli Website. :3
+- `two#0417`
